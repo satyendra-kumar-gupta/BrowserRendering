@@ -84,7 +84,7 @@ re-render to account for changes made.
 4. Run layout on the render tree to compute geometry of each node.
 5. Paint the individual nodes to the screen.
 
-#####Reference:
+##### Reference:
 [Source1](https://www.amsivedigital.com/insights/performance-creative/rendering-a-webpage-with-google-webmaster-tools/#:~:text=The%20rendering%20engine%20has%20a,passed%20from%20a%20remote%20server.)
 [Source2](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
 [Source3](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
